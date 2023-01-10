@@ -17,6 +17,6 @@ int main(){
           else if(x > 1) 
         {
         return x=fibonacci(x-1) + fibonacci(x-2);
-    }
+        }
         else return 0;
-}   
+    }      
